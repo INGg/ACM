@@ -1,0 +1,1 @@
+{"name":"Local: NC11179A","url":"d:\\WORD_TEXT\\ACM\\NC11179A.cpp","tests":[{"id":1632482331050,"input":"6 0 20","output":""},{"id":1632483256050,"input":"7 2 35\n2 3","output":""},{"id":1632485842398,"input":"5 0 16","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\WORD_TEXT\\ACM\\NC11179A.cpp","group":"local","local":true}

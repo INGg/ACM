@@ -1,0 +1,1 @@
+{"name":"Local: icpcB","url":"d:\\WORD_TEXT\\ACM\\icpcB.cpp","tests":[{"id":1632304140276,"input":"0,0,1,0,1,1","output":"0,0,1,1,1,0"},{"id":1632309683424,"input":"0,0,1,1","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\WORD_TEXT\\ACM\\icpcB.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: fdgfd","url":"d:\\WORD_TEXT\\ACM\\fdgfd.cpp","tests":[{"id":1630030494008,"input":"500 3\n150 300\n100 200\n470 471","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\WORD_TEXT\\ACM\\fdgfd.cpp","group":"local","local":true}

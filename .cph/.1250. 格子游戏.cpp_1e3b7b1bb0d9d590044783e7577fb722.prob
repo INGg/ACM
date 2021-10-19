@@ -1,0 +1,1 @@
+{"name":"Local: 1250","url":"d:\\WORD_TEXT\\ACM\\1250. 格子游戏.cpp","tests":[{"id":1630645278748,"input":"3 5\n1 1 D\n1 1 R\n1 2 D\n2 1 R\n2 2 D","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\WORD_TEXT\\ACM\\1250. 格子游戏.cpp","group":"local","local":true}
