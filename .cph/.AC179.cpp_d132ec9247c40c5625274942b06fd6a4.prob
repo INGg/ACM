@@ -1,0 +1,1 @@
+{"name":"Local: AC179","url":"d:\\WORD_TEXT\\ACM\\AC179.cpp","tests":[{"id":1634643956350,"input":"2  3  4  1  5  x  7  6  8","output":"ullddrurdllurdruldr"},{"id":1634649679536,"input":"283104765","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\WORD_TEXT\\ACM\\AC179.cpp","group":"local","local":true}
